@@ -1,0 +1,28 @@
+{
+  "name": "passport-surveymonkey",
+  "version": "1.1.2",
+  "description": "Survey Monkey authentication strategy for Passport",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/passport-surveymonkey.git"
+  },
+  "keywords": [
+    "passport",
+    "surveymonkey",
+    "survey",
+    "monkey"
+  ],
+  "author": "Octoblu Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/passport-surveymonkey/issues"
+  },
+  "homepage": "https://github.com/octoblu/passport-surveymonkey",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
+}
